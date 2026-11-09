@@ -1,0 +1,45 @@
+t_process_c,profile,recuperation,retrofit_allowed,n_feasible,best_chain,lcoh,ng_lcoh,breakeven_co2_eur_t,infeasible
+300.0,continuous,False,True,6,steam_dfb,192.72614335416588,73.2133707698057,595.1402074570101,
+300.0,continuous,False,False,1,oxy_full,391.21253218005904,73.2133707698057,1457.293206810774,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+400.0,continuous,False,True,6,steam_dfb,199.3024725507696,77.35944163458473,577.3084221819423,
+400.0,continuous,False,False,1,oxy_full,407.10650982174644,77.35944163458473,1431.5577973529148,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+500.0,continuous,False,True,6,steam_dfb,206.80162105701447,82.13210001454819,558.7356498071206,
+500.0,continuous,False,False,1,oxy_full,425.2649938044502,82.13210001454819,1404.6175305830336,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+600.0,continuous,False,True,6,steam_dfb,215.43464519796376,87.68554151862702,539.3323625883343,
+600.0,continuous,False,False,1,oxy_full,446.2259947499863,87.68554151862702,1376.351819838688,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+700.0,continuous,False,True,6,steam_dfb,225.4721701868475,94.21694339013752,519.0484451065414,
+700.0,continuous,False,False,1,oxy_full,470.6700807699583,94.21694339013752,1346.6699556560263,"steam_dfb, oxy_none, air, oxy_none_elec, oxy_partial"
+800.0,continuous,False,True,6,steam_dfb,237.26216077086184,101.9779391227254,497.8961087937496,
+800.0,continuous,False,False,1,oxy_full,499.45586037147234,101.9779391227254,1315.5321670876665,"steam_dfb, oxy_none, air, oxy_none_elec, oxy_partial"
+900.0,continuous,False,True,6,steam_dfb,251.2846827481158,111.31698641957951,475.8822354152939,
+900.0,continuous,False,False,1,oxy_full,533.7652234594102,111.31698641957951,1282.8777310403113,"steam_dfb, oxy_none, air, oxy_none_elec, oxy_partial"
+1000.0,continuous,False,True,6,steam_dfb,268.2436919597052,122.74438178668782,452.98699427118873,
+1000.0,continuous,False,False,1,oxy_full,575.3212289121395,122.74438178668782,1248.579055673458,"steam_dfb, oxy_none, oxy_none_elec, air, oxy_partial"
+1100.0,continuous,False,True,6,steam_dfb,289.19272945357784,137.02042056723684,429.1985744830484,
+1100.0,continuous,False,False,1,oxy_full,626.6744569257294,137.02042056723684,1212.4640469923488,"steam_dfb, oxy_none, oxy_none_elec, air, oxy_partial"
+1200.0,continuous,False,True,5,steam_dfb,315.7860194884664,155.3289166001813,404.53155415899437,air
+1200.0,continuous,False,False,1,oxy_full,691.7692894924744,155.3289166001813,1174.3002097279038,"steam_dfb, oxy_none, oxy_none_elec, air, oxy_partial"
+1300.0,continuous,False,True,5,steam_dfb,350.78759275331095,179.61935736836105,379.0698340566716,air
+1300.0,continuous,False,False,1,oxy_full,777.0554161769287,179.61935736836105,1133.7682327502428,"steam_dfb, oxy_none, oxy_none_elec, air, oxy_partial"
+300.0,continuous,True,True,6,steam_dfb,186.13067682913194,68.28845781606071,624.7991746714673,
+300.0,continuous,True,False,1,oxy_full,372.23356092982374,68.28845781606071,1491.461292850259,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+400.0,continuous,True,True,6,steam_dfb,189.55359141118163,70.04875972711834,618.5565854607895,
+400.0,continuous,True,False,1,oxy_full,379.0851148347221,70.04875972711834,1479.0053564965635,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+500.0,continuous,True,True,6,steam_dfb,193.32134512109832,71.98104785430432,612.101605241617,
+500.0,continuous,True,False,1,oxy_full,386.57949261463483,71.98104785430432,1465.9163746793708,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+600.0,continuous,True,True,6,steam_dfb,197.4785105214695,74.1084726196143,605.4223331823009,
+600.0,continuous,True,False,1,oxy_full,394.8003900732063,74.1084726196143,1452.164906980566,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+700.0,continuous,True,True,6,steam_dfb,202.0699207191426,76.45124232686557,598.5529581617143,
+700.0,continuous,True,False,1,oxy_full,403.818941853209,76.45124232686557,1437.7634495363404,"steam_dfb, air, oxy_none, oxy_none_elec, oxy_partial"
+800.0,continuous,True,True,6,steam_dfb,207.13553930851472,79.02238752028784,591.5899351375094,
+800.0,continuous,True,False,1,oxy_full,413.67795662567613,79.02238752028784,1422.7853215048526,"steam_dfb, oxy_none, air, oxy_none_elec, oxy_partial"
+900.0,continuous,True,True,6,steam_dfb,212.72194000839164,81.83726774919876,584.6262395579031,
+900.0,continuous,True,False,1,oxy_full,424.4282732873967,81.83726774919876,1407.2982927559747,"steam_dfb, oxy_none, air, oxy_none_elec, oxy_partial"
+1000.0,continuous,True,True,6,steam_dfb,218.89582089983045,84.92079926547353,577.7311792092976,
+1000.0,continuous,True,False,1,oxy_full,436.1557463548658,84.92079926547353,1391.32861002335,"steam_dfb, oxy_none, air, oxy_none_elec, oxy_partial"
+1100.0,continuous,True,True,6,steam_dfb,225.7412640048871,88.30418671710021,570.9760433321297,
+1100.0,continuous,True,False,1,oxy_full,448.96849861370225,88.30418671710021,1374.8906127215537,"steam_dfb, oxy_none, air, oxy_none_elec, oxy_partial"
+1200.0,continuous,True,True,6,steam_dfb,235.87869709716682,93.76630931210329,558.0001245991249,
+1200.0,continuous,True,False,1,oxy_full,469.4925401295118,93.76630931210329,1350.3112730340283,"steam_dfb, oxy_none, oxy_none_elec, air, oxy_partial"
+1300.0,continuous,True,True,6,steam_dfb,250.58852699993363,102.10136100584567,538.5089944236101,
+1300.0,continuous,True,False,1,oxy_full,500.516374777025,102.10136100584567,1316.9525603913676,"steam_dfb, oxy_none, oxy_none_elec, air, oxy_partial"

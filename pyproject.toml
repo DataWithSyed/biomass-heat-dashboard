@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "biomass-heat-dashboard"
+version = "0.1.0"
+description = "Streamlit dashboard: feasible biomass gasification chains, LCOH and break-even CO2 price vs natural gas for a user-defined process heat requirement."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "DataWithSyed" }]
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "matplotlib>=3.7",
+  "streamlit>=1.46",
+  "biomass-heat-scenarios @ git+https://github.com/DataWithSyed/biomass-heat-scenarios.git",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/DataWithSyed/biomass-heat-dashboard"
+Project = "https://github.com/DataWithSyed/biomass-process-heat"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
